@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"min-",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/SublimeText3/Data/Packages/auto-save/README.md",
+		"/D/Front-End_2017/Practice/Project_2_Tinyone/css/style.css",
+		"/D/Front-End_2017/Practice/Project_2_Tinyone/pages/form-submit.html",
+		"/D/Front-End_2017/Practice/Project_2_Tinyone/pages/index.html",
+		"/D/Front-End_2017/Practice/Project_5_css-diner-shopping-list/index.html",
+		"/D/Front-End_2017/Practice/Project_5_css-diner-shopping-list/css/style.css",
+		"/D/Front-End_2017/Practice/ThirdProject_Expire/css/style.css",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/css/normalize.css",
+		"/D/Front-End_2017/Practice/ThirdProject_Expire/index.html",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/css/style.css",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/pages/blog.html",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/pages/index.html",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/index.html",
+		"/D/Front-End_2017/Practice/SecondProject_tinyone/blog.html",
+		"/D/Front-End_2016/Task5/Task5.css",
+		"/D/Front-End_2016/Task3/Task3.css",
+		"/D/Front-End_2016/Task3/Task3.html",
+		"/D/Front-End_2017/Practice/ThirdProject/index.html",
+		"/D/Front-End_2017/Practice/ThirdProject/css/style.css",
+		"/D/Front-End_2017/Practice/FirstProject/css/style.css",
+		"/D/Front-End_2017/Practice/FirstProject/index.html",
+		"/C/Program Files/FileZilla FTP Client/filezilla.exe",
+		"/C/Users/Анна/Desktop/HTML_CSS/Task7_1.html",
+		"/C/Users/Анна/Desktop/HTML_CSS/Task4/Task4.css",
+		"/C/Users/Анна/Desktop/Visa - ann.rovnaya@gmail.com - Gmail.html",
+		"/C/Users/Анна/Desktop/HTML_CSS/ДЗ, сданное/Task14/Task4.html",
+		"/F/HTML_CSS/Task15/Task15.html",
+		"/F/HTML_CSS/Task15/Task15.css",
+		"/F/HTML_CSS/Task15/Task15.scss",
+		"/F/HTML_CSS/ch23/index.html",
+		"/F/HTML_CSS/Task6_v3/Task6/Task6.scss",
+		"/F/HTML_CSS/Task6_v3/Task6/Task6.html",
+		"/F/HTML_CSS/Task6_v3/Task6/Task6.css",
+		"/F/HTML_CSS/Task14/Task4.css",
+		"/F/HTML_CSS/Task14/Task4.html",
+		"/F/HTML_CSS/Task13/index1.html",
+		"/F/HTML_CSS/28.02.16/index.html",
+		"/F/HTML_CSS/Task13/Task13.html",
+		"/F/HTML_CSS/Task13/index.html",
+		"/F/HTML_CSS/Task9/Task9_1.html",
+		"/F/HTML_CSS/Task10/Task10_2.html",
+		"/F/HTML_CSS/Task10/Task10_1.html",
+		"/F/HTML_CSS/Task9/Task9_2.html",
+		"/F/HTML_CSS/ch18/ch18/index.html",
+		"/F/HTML_CSS/Task10/Task10.html",
+		"/F/HTML_CSS/Task6_v3/Task6/Task6.css.map",
+		"/F/HTML_CSS/Task6_v3/Task6/Task6.min.css",
+		"/F/HTML_CSS/Task8/Task8_3.html",
+		"/F/HTML_CSS/Task8/Task8_2_1.html",
+		"/F/HTML_CSS/Task8/Task8_2.html",
+		"/F/HTML_CSS/Task8/Task8_1.html",
+		"/F/HTML_CSS/Task7/Task7_1.html",
+		"/F/HTML_CSS/Task6_v2/Task6/Task6.css",
+		"/F/HTML_CSS/Task6_v2/Task6/Task6.scss",
+		"/F/HTML_CSS/Task6_v2/Task6/Task6.html",
+		"/F/HTML_CSS/Task6/Task6.css",
+		"/F/HTML_CSS/Task6/Task6.scss",
+		"/F/HTML_CSS/Task6/Task6.html",
+		"/F/HTML_CSS/Task.9/Task9_2.html",
+		"/F/HTML_CSS/Task4/Task4.html",
+		"/F/HTML_CSS/Task5/Task5.css",
+		"/F/HTML_CSS/Task5/Task5.html",
+		"/F/HTML_CSS/Task6/bootstrap-3.3.6-dist/css/bootstrap-theme.css",
+		"/F/HTML_CSS/Task6/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/F/HTML_CSS/Task7/Task7_2.html",
+		"/F/HTML_CSS/Task7/Task7.html",
+		"/F/HTML_CSS/Task4/layer-4.png",
+		"/F/HTML_CSS/Task6/Task6.css.map",
+		"/F/HTML_CSS/Task4/Task4_1.css",
+		"/F/HTML_CSS/Task4/Task4_1.html",
+		"/F/HTML_CSS/Task3/Task3.css",
+		"/F/HTML_CSS/Task3/Task3.html",
+		"/D/myproject/stylesheets/style.css",
+		"/D/myproject/sass/style.scss",
+		"/F/HTML_CSS/Task4/img3.jpg",
+		"/F/HTML_CSS/Task4/Task4.css",
+		"/F/HTML_CSS/29.12.15/index.html",
+		"/F/HTML_CSS/25.12.15/index.html",
+		"/C/Users/Анна/Desktop/HTML_CSS/index.html",
+		"/F/HTML_CSS/Task3/Task.html",
+		"/C/Users/Анна/Desktop/HTML_CSS/index1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\Front-End_2017\\Practice\\Project_2_Tinyone\\plugins\\font-awesome"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fa-thumbs-o-up",
+			"', ",
+			"</",
+			"UM"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
